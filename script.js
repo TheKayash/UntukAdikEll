@@ -1,4 +1,4 @@
-```javascript
+
 /* =========================================================
    WEBSITE ULANG TAHUN
    Pink + Duck Edition 🐤🎀
@@ -710,4 +710,3 @@ console.log(
 console.log(
     "Website ini dibuat dengan HTML + CSS + JavaScript ✨"
 );
-```
